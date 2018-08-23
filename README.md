@@ -42,6 +42,6 @@ Favorite product
 
 [LionKing](http://www.dscademy.com/)
 
-[Medium Towards Datascient] (https://medium.com/towards-data-science/data-science/home)
+[Medium Towards Datascient](https://medium.com/towards-data-science/data-science/home)
 
-[Data framed] (https://www.datacamp.com/community/podcast)
+[Data framed](https://www.datacamp.com/community/podcast)
