@@ -49,6 +49,8 @@ How to land a Data Scientist job at your dream company — My journey to Air
 
 [How To Ace Data Science Interviews: R, Python](https://towardsdatascience.com/how-to-ace-data-science-interviews-r-python-3a49982000de)
 
+[example challenge](https://github.com/benbenliu/data-science-challenges/tree/master/data_and_notebooks/take_home_challenges)
+
 #### Sample Questions
 
 ### Data structure
@@ -70,13 +72,18 @@ What does P-Value mean?
 
 [When to Run Bandit Tests Instead of A/B/n Tests](https://conversionxl.com/blog/bandit-tests/)
 
+
 [How long should run experiment](https://medium.com/airbnb-engineering/experiments-at-airbnb-e2db3abf39e7)
+
 
 [Bayesian A/B Testing](https://www.countbayesie.com/blog/2015/4/25/bayesian-ab-testing)
 
+
 [推荐系统中的A/B测试，谁能详细说下思路](https://www.zhihu.com/question/20458233)
 
+
 [EXP PLATFORM A/B](https://exp-platform.com/2017abtestingtutorial/)
+
 
 [The Three Types of A/B Tests](https://towardsdatascience.com/the-three-types-of-a-b-tests-ac544a5783f8)
 
@@ -95,6 +102,7 @@ Calculate AUC of an ROC curve
 
 
 Explain Linear Regression, assumptions and math equations
+
 
 [通俗的将Xgboost的原理讲明白](https://blog.csdn.net/meyh0x5vdtk48p2/article/details/79674983)
 
@@ -158,7 +166,9 @@ Lean analytics
 
 [Data framed](https://www.datacamp.com/community/podcast)
 
+
 [KDD papers and slides by Microsoft](http://www.kdd.org/kdd2017/accepted-papers）
+
 
 [DATACAMP](https://www.datacamp.com/)
 
