@@ -13,10 +13,29 @@
 
 Cracking the PM Interview
 
+Practical Statistics for Data Scientists
+
 [Uber questions](https://blog.inferentialist.com/2015/10/03/uber-challenge.html)
+
+[转专业如何快速冲刺 DS 高薪 Offer 讲座资料](http://blog.bittiger.io/post233/)
+
+[100%通过率的 Cracking the Data Challenge 技巧分享](https://mp.weixin.qq.com/s/AS-DnZ1m-DBz217sKyZPWA)
+
+[Data Scientist 跳槽经验总结帖+复习资料推荐](http://forums.huaren.us/showtopic.aspx?topicid=2244179&forumpage=1)
+
+How to land a Data Scientist job at your dream company — My journey to Airbnb(https://towardsdatascience.com/how-to-land-a-data-scientist-job-at-your-dream-company-my-journey-to-airbnb-f6a1e99892e8)
+
+
+
+[Acing AI Interviews from big companies](https://medium.com/acing-ai/acing-ai-interviews/home)
+
 
 
 ### SQL
+
+[INTRO SQL](https://community.modeanalytics.com/sql/tutorial/introduction-to-sql/)
+
+[How To Ace Data Science Interviews: SQL](https://towardsdatascience.com/how-to-ace-data-science-interviews-sql-b71de212e433)
 
 #### Sample Questions
 
@@ -24,6 +43,8 @@ Cracking the PM Interview
 
 #### Sample Questions
 ### Python
+
+[How To Ace Data Science Interviews: R, Python](https://towardsdatascience.com/how-to-ace-data-science-interviews-r-python-3a49982000de)
 
 #### Sample Questions
 
@@ -33,23 +54,30 @@ Cracking the PM Interview
 
 [ANOVA](https://onlinecourses.science.psu.edu/stat501/node/266/)
 
-
-
+[How To Ace Data Science Interviews: Statistics](https://towardsdatascience.com/how-to-ace-data-science-interviews-statistics-f3d363ad47b)
 
 
 ### Hypothesis Testing
 
 How do you use A/B testing?
 
+[A Summary of Udacity A/B Testing Course](https://towardsdatascience.com/a-summary-of-udacity-a-b-testing-course-9ecc32dedbb1)
+
 What does P-Value mean?
 
 [When to Run Bandit Tests Instead of A/B/n Tests](https://conversionxl.com/blog/bandit-tests/)
 
-[How run should run experiment](https://medium.com/airbnb-engineering/experiments-at-airbnb-e2db3abf39e7)
+[How long should run experiment](https://medium.com/airbnb-engineering/experiments-at-airbnb-e2db3abf39e7)
 
 [Bayesian A/B Testing](https://www.countbayesie.com/blog/2015/4/25/bayesian-ab-testing)
 
 [推荐系统中的A/B测试，谁能详细说下思路](https://www.zhihu.com/question/20458233)
+
+[EXP PLATFORM A/B](https://exp-platform.com/2017abtestingtutorial/)
+
+[The Three Types of A/B Tests](https://towardsdatascience.com/the-three-types-of-a-b-tests-ac544a5783f8)
+
+
 
 [Uplift Modeling Workshop](https://www.slideshare.net/odsc/victor-lomachinelearningpresentation)
 
@@ -93,6 +121,12 @@ Favorite product
 
 [Mock Metric interview](https://medium.com/@stellarpeers)
 
+[Case in Point 9: Complete Case Interview Preparation](https://www.amazon.com/Case-Point-Complete-Interview-Preparation/dp/0986370711/ref=sr_1_2?ie=UTF8&qid=1530848065&sr=8-2&keywords=case+in+point)
+
+[Decode and Conquer](https://www.amazon.com/Decode-Conquer-Answers-Management-Interviews/dp/0615930417/ref=sr_1_1?s=books&ie=UTF8&qid=1530848101&sr=1-1&keywords=decode+and+conquer)
+
+
+
 
 #### Sample Questions
 
@@ -108,3 +142,9 @@ Favorite product
 [Medium Towards Datascient](https://medium.com/towards-data-science/data-science/home)
 
 [Data framed](https://www.datacamp.com/community/podcast)
+
+[KDD papers and slides by Microsoft](http://www.kdd.org/kdd2017/accepted-papers）
+
+[DATACAMP](https://www.datacamp.com/)
+
+
