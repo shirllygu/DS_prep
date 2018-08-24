@@ -25,17 +25,20 @@ Practical Statistics for Data Scientists
 
 How to land a Data Scientist job at your dream company — My journey to Airbnb(https://towardsdatascience.com/how-to-land-a-data-scientist-job-at-your-dream-company-my-journey-to-airbnb-f6a1e99892e8)
 
-
+[回报地里，总结自己如何cracking the Data Challenge](http://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=326201&extra=page%3D1%26filter%3Dsortid%26sortid%3D311%26searchoption%5B3046%5D%5Bvalue%5D%3D2%26searchoption%5B3046%5D%5Btype%5D%3Dradio%26sortid%3D311)
 
 [Acing AI Interviews from big companies](https://medium.com/acing-ai/acing-ai-interviews/home)
 
-
+[总结如何准备data science analytics interview，case study详解](http://www.1point3acres.com/bbs/thread-330947-1-1.html)
 
 ### SQL
 
 [INTRO SQL](https://community.modeanalytics.com/sql/tutorial/introduction-to-sql/)
 
 [How To Ace Data Science Interviews: SQL](https://towardsdatascience.com/how-to-ace-data-science-interviews-sql-b71de212e433)
+
+[SQL BANK](https://gist.github.com/JenZhao/465bf27d4c49c04ec74872d1ae90361f)
+
 
 #### Sample Questions
 
@@ -110,9 +113,21 @@ Search
 ### Improving Product
 Favorite product
 
+[Reduce Bounce Rate](https://searchenginewatch.com/sew/how-to/2237250/reduce-bounce-rate-20-things-to-consider)
+
+[bounce/exit Google analytics](https://megalytic.com/blog/identifying-drop-off-points-on-your-website-with-google-analytics)
+
+
 ### Growth
 
 ### Business Case
+
+Lean analytics
+
+[Victor Cheng case study interview](http://www.ximalaya.com/5269453/album/6414597?feed=reset)
+
+[Growth | Alex Schultz](https://www.youtube.com/watch?v=8qwV-sAHsG8)
+
 [数据科学家的product sense哪里来Case Studies](http://www.1point3acres.com/bbs/thread-111681-1-1.html)
 
 [Facebook数据科学家解密数据分析驱动用户增长](https://36kr.com/p/5049712.html)
