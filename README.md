@@ -59,6 +59,8 @@ How to land a Data Scientist job at your dream company — My journey to Air
 
 [Analysis of variance & experimental design](https://onlinecourses.science.psu.edu/stat502/node/138/)
 
+[Design of Experiments](https://onlinecourses.science.psu.edu/stat503/)
+
 [ANOVA](https://onlinecourses.science.psu.edu/stat501/node/266/)
 
 [How To Ace Data Science Interviews: Statistics](https://towardsdatascience.com/how-to-ace-data-science-interviews-statistics-f3d363ad47b)
