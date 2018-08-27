@@ -23,7 +23,7 @@ Practical Statistics for Data Scientists
 
 [Data Scientist 跳槽经验总结帖+复习资料推荐](http://forums.huaren.us/showtopic.aspx?topicid=2244179&forumpage=1)
 
-How to land a Data Scientist job at your dream company — My journey to Airbnb(https://towardsdatascience.com/how-to-land-a-data-scientist-job-at-your-dream-company-my-journey-to-airbnb-f6a1e99892e8)
+[How to land a Data Scientist job at your dream company — My journey to Airbnb](https://towardsdatascience.com/how-to-land-a-data-scientist-job-at-your-dream-company-my-journey-to-airbnb-f6a1e99892e8)
 
 [回报地里，总结自己如何cracking the Data Challenge](http://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=326201&extra=page%3D1%26filter%3Dsortid%26sortid%3D311%26searchoption%5B3046%5D%5Bvalue%5D%3D2%26searchoption%5B3046%5D%5Btype%5D%3Dradio%26sortid%3D311)
 
@@ -166,12 +166,12 @@ Lean analytics
 
 [LionKing](http://www.dscademy.com/)
 
-[Medium Towards Datascient](https://medium.com/towards-data-science/data-science/home)
+[Medium Towards Datascience](https://medium.com/towards-data-science/data-science/home)
+
 
 [Data framed](https://www.datacamp.com/community/podcast)
 
-
-[KDD papers and slides by Microsoft](http://www.kdd.org/kdd2017/accepted-papers）
+[KDD papers and slides by Microsoft](http://www.kdd.org/kdd2017/accepted-papers)
 
 
 [DATACAMP](https://www.datacamp.com/)
