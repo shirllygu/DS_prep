@@ -65,6 +65,9 @@ Practical Statistics for Data Scientists
 
 [How To Ace Data Science Interviews: Statistics](https://towardsdatascience.com/how-to-ace-data-science-interviews-statistics-f3d363ad47b)
 
+PCA
+
+Clustering K-means
 
 ### Hypothesis Testing
 
