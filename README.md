@@ -108,6 +108,9 @@ Calculate AUC of an ROC curve
 Explain Linear Regression, assumptions and math equations
 
 
+Model Evaluation (Normality assumption, bias variance trade-off, pitfalls of R^2)
+
+
 [通俗的将Xgboost的原理讲明白](https://blog.csdn.net/meyh0x5vdtk48p2/article/details/79674983)
 
 ### Examples:
