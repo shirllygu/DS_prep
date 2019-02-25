@@ -130,6 +130,7 @@ Model Evaluation (Normality assumption, bias variance trade-off, pitfalls of R^2
 
 [通俗的将Xgboost的原理讲明白](https://blog.csdn.net/meyh0x5vdtk48p2/article/details/79674983)
 
+
 ### Examples:
 
 
@@ -198,6 +199,6 @@ Lean analytics
 
 [DATACAMP](https://www.datacamp.com/)
 
-[Reddit Data science] (https://www.reddit.com/r/datascience/)
+[Reddit Data science](https://www.reddit.com/r/datascience/)
 
 
