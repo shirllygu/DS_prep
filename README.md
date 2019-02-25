@@ -68,6 +68,7 @@ Practical Statistics for Data Scientists
 [Intro to Inferential Statistics](https://classroom.udacity.com/courses/ud201)
 
 [How To Ace Data Science Interviews: Statistics](https://towardsdatascience.com/how-to-ace-data-science-interviews-statistics-f3d363ad47b)
+[Math in Data Science](https://www.dataquest.io/blog/math-in-data-science/)
 
 PCA
 
