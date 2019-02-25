@@ -73,7 +73,7 @@ PCA
 
 Clustering K-means
 
-### Hypothesis Testing
+### Hypothesis Testing/ A/B tests
 
 How do you use A/B testing?
 
@@ -100,7 +100,9 @@ What does P-Value mean?
 
 [The Three Types of A/B Tests](https://towardsdatascience.com/the-three-types-of-a-b-tests-ac544a5783f8)
 
+[Two stages A/B Tests](https://blog.twitch.tv/two-stage-least-squares-for-a-b-tests-669d07f904f7)
 
+[The Design of A/B Tests in an Online Marketplace](https://www.ebayinc.com/stories/blogs/tech/the-design-of-a-b-tests-in-an-online-marketplace/)
 
 [Uplift Modeling Workshop](https://www.slideshare.net/odsc/victor-lomachinelearningpresentation)
 
