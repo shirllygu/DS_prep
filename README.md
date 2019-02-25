@@ -104,11 +104,13 @@ What does P-Value mean?
 
 [The Design of A/B Tests in an Online Marketplace](https://www.ebayinc.com/stories/blogs/tech/the-design-of-a-b-tests-in-an-online-marketplace/)
 
+[How A/B Tests Could Go Wrong: Automatic Diagnosis of Invalid Online Experiments](http://delivery.acm.org/10.1145/3300000/3291000/p501-chen.pdf?ip=158.140.1.28&id=3291000&acc=OPEN&key=5EDB2328FC020579%2E741689B11B48FF79%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1550971522_f73b3f1081a49e60394e64b6c1c92203)
+
 [Uplift Modeling Workshop](https://www.slideshare.net/odsc/victor-lomachinelearningpresentation)
 
 [Net Lift Prediction Models](https://www.youtube.com/watch?v=JN3WE8IZNVY)
 
-[Uplift Modelin](https://www.predictiveanalyticsworld.com/patimes/uplift-modeling-making-predictive-models-actionable/8578/)
+[Uplift Modeling](https://www.predictiveanalyticsworld.com/patimes/uplift-modeling-making-predictive-models-actionable/8578/)
 
 ## Machine Learning Questions
 
