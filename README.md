@@ -71,6 +71,8 @@ Practical Statistics for Data Scientists
 
 [Math in Data Science](https://www.dataquest.io/blog/math-in-data-science/)
 
+[Probability practice](https://brilliant.org/courses/probability/)
+
 PCA
 
 Clustering K-means
