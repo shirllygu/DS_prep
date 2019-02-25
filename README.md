@@ -196,4 +196,6 @@ Lean analytics
 
 [DATACAMP](https://www.datacamp.com/)
 
+[Reddit Data science (https://www.reddit.com/r/datascience/)
+
 
