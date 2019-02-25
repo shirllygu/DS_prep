@@ -75,6 +75,8 @@ How do you use A/B testing?
 
 [A Summary of Udacity A/B Testing Course](https://towardsdatascience.com/a-summary-of-udacity-a-b-testing-course-9ecc32dedbb1)
 
+[A/B Testing for Business Analysts](https://classroom.udacity.com/courses/ud509)
+
 What does P-Value mean?
 
 [When to Run Bandit Tests Instead of A/B/n Tests](https://conversionxl.com/blog/bandit-tests/)
@@ -159,6 +161,8 @@ Lean analytics
 [Case in Point 9: Complete Case Interview Preparation](https://www.amazon.com/Case-Point-Complete-Interview-Preparation/dp/0986370711/ref=sr_1_2?ie=UTF8&qid=1530848065&sr=8-2&keywords=case+in+point)
 
 [Decode and Conquer](https://www.amazon.com/Decode-Conquer-Answers-Management-Interviews/dp/0615930417/ref=sr_1_1?s=books&ie=UTF8&qid=1530848101&sr=1-1&keywords=decode+and+conquer)
+
+[Product Design](https://classroom.udacity.com/courses/ud509)
 
 
 
