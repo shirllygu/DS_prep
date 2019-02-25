@@ -108,15 +108,13 @@ What does P-Value mean?
 
 Calculate AUC of an ROC curve
 
-
-
 Explain Linear Regression, assumptions and math equations
-
 
 Model Evaluation (Normality assumption, bias variance trade-off, pitfalls of R^2)
 
 [Elements of statistical learning](https://www.amazon.com/Elements-Statistical-Learning-Prediction-Statistics/dp/0387848576)
 
+[Model Building and Validation, Good intro](https://classroom.udacity.com/courses/ud919)
 
 [通俗的将Xgboost的原理讲明白](https://blog.csdn.net/meyh0x5vdtk48p2/article/details/79674983)
 
