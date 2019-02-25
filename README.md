@@ -63,6 +63,10 @@ Practical Statistics for Data Scientists
 
 [ANOVA](https://onlinecourses.science.psu.edu/stat501/node/266/)
 
+[Penn state intro 414,415](https://newonlinecourses.science.psu.edu/stat414/)
+
+[Intro to Inferential Statistics](https://classroom.udacity.com/courses/ud201)
+
 [How To Ace Data Science Interviews: Statistics](https://towardsdatascience.com/how-to-ace-data-science-interviews-statistics-f3d363ad47b)
 
 PCA
